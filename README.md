@@ -12,7 +12,7 @@ Remove o ultimo elemento do array
 
 Remove o primeiro elemento
 
-## metodo UnShift
+## Metodo UnShift
 
 Adiciona no inicio do array
 
@@ -20,7 +20,7 @@ Adiciona no inicio do array
 
 Busca valores exatos no array
 
-## metodo join
+## Metodo join
 
 Para cada elemento do array adiciona um separador
 
