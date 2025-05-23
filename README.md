@@ -23,3 +23,7 @@ Busca valores exatos no array
 ## metodo join
 
 Para cada elemento do array adiciona um separador
+
+## Metodo Slice
+
+Separa o array conforme os índices
