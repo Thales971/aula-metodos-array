@@ -19,3 +19,7 @@ Adiciona no inicio do array
 ## Metodo includes
 
 Busca valores exatos no array
+
+## metodo join
+
+Para cada elemento do array adiciona um separador
