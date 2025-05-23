@@ -7,3 +7,7 @@ Adiciona elementos ao final do array
 ## Metodo pop
 
 Remove o ultimo elemento do array
+
+## Metodo Shift
+
+Remove o primeiro elemento
